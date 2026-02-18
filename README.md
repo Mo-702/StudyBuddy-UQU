@@ -9,8 +9,7 @@ StudyBuddy is a comprehensive educational platform designed to enhance student p
 - **Interactive Learning:** Features such as interactive exams and course chat for better engagement.
 - **Multi-Platform Support:** Adaptive design with dedicated interfaces for both Desktop and Mobile.
 - **Dark/Light Mode:** Full theme customization for better accessibility.
-
-## Tech Stack
+# Tech Stack
 - **Framework:** React.js with TypeScript
 - **Styling:** Tailwind CSS
 - **Components:** Radix UI
